@@ -1,0 +1,520 @@
+
+
+p{ 
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* ..........header......... */
+h1{
+    font-size: 60px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(78, 15, 15);
+}
+
+h5{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(59, 122, 185);
+    font-size: 35px;
+}
+/* .............navigation bar.............. */
+.picture{
+    text-align: center;
+    margin-left: -100px;
+    width: 60px;
+    height: 60px;
+}
+.navigation{
+    border: 2px solid rgb(67, 67, 71);
+    padding-left: 200px;
+    text-align: center;
+    /* border-radius: 10px; */
+    background-color:white;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.web{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.list{
+    color: rgb(48, 43, 2);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/* ................main............... */
+
+.maindiv{
+    /* overflow: scroll; */
+    width: 1350px;
+}
+
+
+
+
+/* ...........first box.............. */
+
+.firstBox{
+    background-image: url(pictures/islamic-greeting-social-media-post-background-with-al-quran_351527-858.avif);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 1326px; 
+ 
+}
+h2{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+h3{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+h4{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    font-size: 60px;
+}
+
+
+
+
+
+/* ...................second box............... */
+
+
+.one{
+    border-top: 10px solid rgb(119, 96, 20);
+    margin-top: 30px;
+    height: 240px;
+    width: 900px;
+    border-radius: 0px 0px 20px 20px ;
+    box-shadow: 8px 8px 8px;
+}
+.boxTwo{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: rgb(68, 62, 4);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+  
+}
+
+.column{
+    border: 2px black solid;
+    margin: 30px;
+    padding: 10px;
+    height: 300px;
+   width: 70px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 7px 7px 7px 7px black;
+    background-color: white;
+    /* background-image: url(pictures/images\ \(7\).jpg);
+    background-position: center;
+    background-size: cover; */
+}
+
+
+.list2{
+    color: bisque;
+    /* background-color: rgb(46, 40, 40); */
+    font-size: 40px;
+}
+
+
+/* i have to remove thisn class */
+
+.fida{
+    border: 1px solid black;
+    background-color: rgb(104, 77, 20);
+    text-align: center;
+    margin-left:10px;
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.bod{
+    border-radius: 15px;
+   box-shadow: 10px 10px 10px ;
+}
+
+.hh5{
+    font-size: 22px;
+    text-align: center;
+}
+.pp{
+    font-size: 17px;
+    text-align: center;
+}
+
+/* .............fourth box............... */
+.fourthBox{
+    background-color: rgb(128, 99, 7, 20);
+}
+
+.input{
+    width: 500px;
+    height: 70px;
+   background-color: rgb(247, 246, 241);
+   color: rgb(82, 9, 9);
+   font-size: 30px;
+}
+.massage{
+    width: 500px;
+    height: 200px;
+   background-color: rgb(253, 253, 249);
+   color: rgb(78, 7, 7);
+   font-size: 30px;
+ 
+}
+.heading{
+    color: rgb(65, 60, 3);
+    padding-top: 70px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pr{
+    color: rgb(65, 60, 3);
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+.ulList{
+    text-align: left;
+    font-size: 20px;
+}
+
+/* ................fifth box............. */
+ 
+.k{
+    background-position: center;
+    background-size: cover;
+    width: -50px;
+    height: 300px;
+    margin: 30px;
+    border-top: 3px solid rgb(75, 11, 11);
+    border-left:3px solid rgb(75, 11, 11) ;
+    border-right: 3px solid rgb(75, 11, 11);
+    border-bottom: 5px goldenrod solid;
+    border-radius: 20px 20px 0px 0px ;
+} 
+
+.k2{
+    background-image: url();
+    background-position: center;
+    background-size: cover;
+    width: -50px;
+    height: 300px;
+    margin: 30px;
+    border-top: 3px solid rgb(75, 11, 11);
+    border-left:3px solid rgb(75, 11, 11) ;
+    border-right: 3px solid rgb(75, 11, 11);
+    border-bottom: 5px goldenrod solid;
+    border-radius: 20px 20px 0px 0px ;
+}
+
+.k3{
+    background-image: url(pictures/images\ \(18\).jpg);
+    background-position: center;
+    background-size: cover;
+   width: 50px;
+    height: 300px;
+    margin: 30px;
+    border-top: 3px solid rgb(75, 11, 11);
+    border-left:3px solid rgb(75, 11, 11) ;
+    border-right: 3px solid rgb(75, 11, 11);
+    border-bottom: 5px goldenrod solid;
+    border-radius: 20px 20px 0px 0px ;
+
+    
+}
+.z2{
+    border: 2px red solid;
+}
+  
+
+/* ................seventh box.............. */
+
+.t1{
+  width: 80px;
+  height: 150px;
+  /* margin-left: 0px; */
+  /* margin-bottom: 60px; */
+  margin-top: 30px;
+}
+.box7{
+    margin-top: 30px;
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: rgb(252, 248, 248);
+    border: 2px solid firebrick;
+    margin: 20px;
+    font-size: 20px;
+}
+.por{
+    color: rgb(82, 48, 5);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.unOrderedList{
+    margin-left: -80px;
+    color: rgb(54, 33, 1);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.orderedList{
+    margin-left: 50px;
+    color: rgb(54, 33, 1);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* ..............foooter............. */
+
+
+/* ................ PAGE OF ABOUT US ............... */
+
+
+.abo{
+    padding: 100px 100px 100px 100px ;
+    color: rgb(242, 238, 245);
+    background-color: rgb(77, 27, 27);
+    margin-bottom: 30px;
+}
+.abo2{
+    font-size: 20px;
+    margin-right: 70px;
+    color: rgb(142, 154, 209);
+    margin-left: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.pok{
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+    margin-top: -60px;
+}
+.pok2{
+    margin-left: -60px;
+    color: rgb(142, 154, 209); ;
+
+}
+.headings{
+    color: rgb(63, 16, 1);
+    font-size: 40px;
+    text-align: left;
+    margin-left: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/* ......................courses........................... */
+
+
+.lisiOfLists{
+    font-size: 20px;
+    color: rgb(5, 43, 43);
+}
+
+
+/* ..........................main of courses page.......... */
+
+
+.p1{
+    width: 232px;
+    margin-left: -9px;
+    margin-top: -9px;
+}
+.per1{
+    margin-left: 20px;
+    color: rgb(58, 59, 3);
+}
+.cor1{
+    color: rgb(107, 41, 2);
+    font-family: fantasy;
+}
+
+.cor2{
+    
+    color: rgb(71, 9, 50);
+    border-bottom: 1px solid gray;
+    font-size: 25px;
+    text-align: center;
+    font-family: serif;
+}
+
+.cor3{
+    color: rgb(3, 2, 63);
+}
+.cor4{
+    color: rgb(2, 72, 90);
+    font-family: serif;
+}
+.sign{
+    text-align: center;
+    margin-left: 100px;
+}
+.haa{
+    background-color: rgb(53, 44, 3);
+}
+.boyCol{
+    background-color: rgb(205, 191, 218);
+    margin: 17px;
+}
+
+
+/* ,,,,,,,,,,,,,register,,,,,,,,,,,, */
+
+.forme{
+    text-align: left;
+    margin-left: 40px;
+}
+.registerPar{
+
+    margin-left: 70px;
+
+}
+
+.unorder{
+    margin-left: 60px;
+    color: rgb(80, 75, 3);
+}
+.registerHeading{
+    margin-left: 70px;
+    color: rgb(87, 23, 4);
+}
+
+.z1{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: rgb(71, 55, 3);
+    padding: 15px ;
+    width: 650px;
+    border: 1px white solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(54, 51, 51);
+}
+.dov{
+    width: 1000px;
+  
+}
+
+.z2{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    color: rgb(71, 55, 3);
+    padding: 15px ;
+    width: 650px;
+    height: 150px;
+    border: 1px white solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(54, 51, 51);
+}
+
+.display{
+    display: flex;
+}
+/* .style{
+    width: 300px;
+    height: 200px;
+} */
+
+.num{
+    width: 80px;
+    height: 80px;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.firstDiv{
+    margin: 30px;
+    border-radius: 10px;
+    width: 350px;
+    height: 260px;
+    box-shadow: 0px 0px 15px rgb(64, 92, 36);
+}
+
+.secondDiv{
+    margin: 30px;
+    border-radius: 10px;
+    width: 350px;
+    height: 260px;
+    box-shadow: 0px 0px 15px rgb(64, 92, 36);
+}
+
+.thirdDiv{
+    margin: 30px;
+    border-radius: 10px;
+    width: 350px;
+    height: 260px;
+    box-shadow: 0px 0px 15px rgb(64, 92, 36);
+}
+
+.down{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 10px;
+}
+.sub{
+    margin-left: 600px;
+    margin-top: -30px;
+    font-size: 35px;
+    color: rgb(242, 242, 250);
+    background-color: rgb(37, 37, 161);
+    border-radius: 8px;
+}
+
+
+/* ...................contact us............ */
+
+.firstd{
+    margin: 30px;
+    border-radius: 10px;
+    width: 350px;
+    height: 260px;
+    box-shadow: 0px 0px 15px rgb(64, 92, 36);
+}
+
+.secondd{
+    margin: 30px;
+    border-radius: 10px;
+    width: 350px;
+    height: 260px;
+    box-shadow: 0px 0px 15px rgb(64, 92, 36);
+}
+
+.thirdd{
+    margin: 30px;
+    border-radius: 10px;
+    width: 350px;
+    height: 260px;
+    box-shadow: 0px 0px 15px rgb(64, 92, 36);
+}
+
+
+
+
+
+
+
