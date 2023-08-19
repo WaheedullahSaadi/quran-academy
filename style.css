@@ -23,9 +23,12 @@ h5{
 /* .............navigation bar.............. */
 .picture{
     text-align: center;
-    margin-left: -100px;
+    margin-left: -200px;
     width: 60px;
     height: 60px;
+}
+.bin{
+    border: 2px solid red;
 }
 .navigation{
     border: 2px solid rgb(67, 67, 71);
@@ -37,6 +40,12 @@ h5{
     position: sticky;
     top: 0;
 }
+.class{
+    background-image: url(pictures/toglericone.jpg);
+    width: 50px;
+    height: 50px;
+}
+
 .web{
     position: -webkit-sticky;
     position: sticky;
@@ -298,10 +307,11 @@ h4{
 
 
 .abo{
-    padding: 100px 100px 100px 100px ;
+    padding: 100px 0px 100px 0px ;
     color: rgb(242, 238, 245);
     background-color: rgb(77, 27, 27);
     margin-bottom: 30px;
+    text-align: center;
 }
 .abo2{
     font-size: 20px;
@@ -393,12 +403,12 @@ h4{
 }
 .registerPar{
 
-    margin-left: 70px;
+    margin-left: 40px;
 
 }
 
 .unorder{
-    margin-left: 60px;
+    margin-left: 40px;
     color: rgb(80, 75, 3);
 }
 .registerHeading{
@@ -407,26 +417,26 @@ h4{
 }
 
 .z1{
-    margin-left: 20px;
+   
     margin-bottom: 20px;
     color: rgb(71, 55, 3);
     padding: 15px ;
-    width: 650px;
+    width: 400px;
     border: 1px white solid;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgb(54, 51, 51);
 }
 .dov{
-    width: 1000px;
+    width: 600px;
   
 }
 
 .z2{
-    margin-left: 20px;
+   
     margin-bottom: 20px;
     color: rgb(71, 55, 3);
     padding: 15px ;
-    width: 650px;
+    width: 400px;
     height: 150px;
     border: 1px white solid;
     border-radius: 10px;
