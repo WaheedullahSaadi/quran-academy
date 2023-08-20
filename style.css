@@ -23,8 +23,8 @@ h5{
 /* .............navigation bar.............. */
 .picture{
     text-align: center;
-    margin-left: -215px;
-    margin-right: -10px;
+    margin-left: -200px;
+   
     width: 60px;
     height: 60px;
 }
@@ -40,6 +40,7 @@ h5{
     position: -webkit-sticky;
     position: sticky;
     top: 0;
+    z-index: 100;
 }
 .class{
     background-image: url(pictures/toglericone.jpg);
@@ -499,28 +500,39 @@ h4{
 
 /* ...................contact us............ */
 
-.firstd{
-    margin: 30px;
+.card1{
+   width: 350px;
+   height: 200; 
+   margin: 30px;
     border-radius: 10px;
-    width: 350px;
-    height: 260px;
+    
     box-shadow: 0px 0px 15px rgb(64, 92, 36);
 }
 
-.secondd{
+.card2{
+    width: 350px;
+    height: 200; 
     margin: 30px;
     border-radius: 10px;
-    width: 350px;
-    height: 260px;
+   
     box-shadow: 0px 0px 15px rgb(64, 92, 36);
 }
 
-.thirdd{
+.card3{
+    width: 350px;
+    height: 200;
     margin: 30px;
     border-radius: 10px;
-    width: 350px;
-    height: 260px;
+  
     box-shadow: 0px 0px 15px rgb(64, 92, 36);
+}
+
+.form{
+    color: rgb(135, 132, 184);
+}
+.form-group{
+
+    padding: 10px;
 }
 
 
